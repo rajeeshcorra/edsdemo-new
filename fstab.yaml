@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://da.live/#/rajeeshcorra/edsdemo-new
+    type: markup
+
+folders:
+  /products/: /products/default
